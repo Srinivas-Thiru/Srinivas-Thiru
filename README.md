@@ -6,8 +6,8 @@
 <br/>
 
 
-I love turning concepts into reality and solving complex problems.
-You can mail me at sri.thiru.cs@gmail.com
+- I love turning concepts into reality and solving complex problems.
+- You can mail me at sri.thiru.cs@gmail.com
 
 
 
