@@ -6,8 +6,7 @@ You can mail him at sri.thiru.cs@gmail.com
 
 
 Connect with me:
-![image](https://github.com/Srinivas-Thiru/Srinivas-Thiru/assets/110653801/6b1c9bd4-7b9e-45ee-b507-ddf1c5ae23e7)
-
+https://www.linkedin.com/in/srinivas-thiru/
 
 Languages and Tools:
 angular aws c css3 express gcp git html5 java javascript karma linux mongodb mysql nginx nodejs postgresql python react sass spring typescript vuejs
