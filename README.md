@@ -1,4 +1,10 @@
-### Hi 👋, I am Srinivas
+<h1 align="center">Hi 👋, I'm Srinivas</h1>
+<h3 align="center">A passionate Software Engineer</h3>
+
+<br/>
+<br/>
+<br/>
+
 
 I love turning concepts into reality and solving complex problems.
 You can mail me at sri.thiru.cs@gmail.com
