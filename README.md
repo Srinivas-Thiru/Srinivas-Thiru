@@ -2,8 +2,7 @@
 <h3 align="center">A passionate Software Engineer</h3>
 
 <br/>
-<br/>
-<br/>
+
 
 
 - I love turning concepts into reality and solving complex problems.
